@@ -1,8 +1,8 @@
 # ¡Hey! 👋
 
-Bienvenido a mi perfil de GitHub, desarrollador orientado al backend con experiencia en varias tecnologías.
+Welcome to my GitHub profile, a backend-focused developer with experience in various technologies.
 
-## Stack Tecnológico
+## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
