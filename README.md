@@ -1,6 +1,6 @@
 # ¡Hey! 👋
 
-Bienvenido a mi perfil de GitHub, desarrollador orientado al backend con experiencia en varias tecnologías. Aca encontrarás un vistazo a mi stack tecnológico y algunos de mis proyectos destacados.
+Bienvenido a mi perfil de GitHub, desarrollador orientado al backend con experiencia en varias tecnologías.
 
 ## Stack Tecnológico
 
